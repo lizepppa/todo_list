@@ -1,0 +1,10 @@
+C:\Users\Елизавета\Documents\rust\todo_list\target\debug\deps\libcipher-94be9c596d7c2fa8.rmeta: C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\lib.rs C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\block.rs C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\errors.rs C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\stream.rs C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\stream_core.rs C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\stream_wrapper.rs
+
+C:\Users\Елизавета\Documents\rust\todo_list\target\debug\deps\cipher-94be9c596d7c2fa8.d: C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\lib.rs C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\block.rs C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\errors.rs C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\stream.rs C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\stream_core.rs C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\stream_wrapper.rs
+
+C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\lib.rs:
+C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\block.rs:
+C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\errors.rs:
+C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\stream.rs:
+C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\stream_core.rs:
+C:\Users\Елизавета\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.4.4\src\stream_wrapper.rs:
